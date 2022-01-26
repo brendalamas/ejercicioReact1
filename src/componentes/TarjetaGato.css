@@ -1,0 +1,21 @@
+.tarjeta-gato{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    border: 2px solid #000000;
+    margin: 25px;
+    color: #000000;
+    border-radius: 20px;
+}
+.tarjeta-gato img {
+    border-radius: 20px;
+    border: 1px solid #000000;
+    width: 45%;
+    margin-bottom: 10px;
+}
+
+.tarjeta-gato p {
+    text-align: center;
+}
